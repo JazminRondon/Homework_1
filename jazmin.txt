@@ -1,3 +1,7 @@
 Commend Line Notes
 #pwd is for printing the current working directory.
-#cd control directory
+#cd is Change Directory- move around files
+#ls is List Directory- it's a command that shows what files you're looking at 
+#touch is used to create new empty file
+#cat is use to display file contect and to combine files to show the output of them
+#less is use to look at the file's content. There are commands to move around the content like q, g, G, h, page up, page down, and more.
